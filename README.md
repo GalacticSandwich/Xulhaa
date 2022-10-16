@@ -1,2 +1,2 @@
 # Cryolang
-A Constructed Language made for the basis of a Sociolinguistics Class Final Project.
+A Constructed Language made to serve as the basis of a Sociolinguistics Class Final Project.
