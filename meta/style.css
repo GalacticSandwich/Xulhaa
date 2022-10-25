@@ -24,18 +24,18 @@ p {
     background-color: #99cc99;
 }
 
-.navig-h {
+.nv-head {
     text-align: center;
     font-style: italic;
 }
 
-.navig-comp {
+.nv-comp {
     text-align: center;
     font-style: italic;
     margin: 4px;
 }
 
-.navig-div {
+.nv-div {
     text-align: center;
     margin-top: 4px;
     margin-bottom: 4px;
@@ -50,15 +50,16 @@ p {
     background-color: #ccffcc;
 }
 
-.info-h {
+.in-head {
     text-align: center;
 }
 
-.info-subh {
+.in-subh {
 
 }
 
-.info-sect {
+.in-sect {
     font-size: large;
     text-align: left;
 }
+
