@@ -1,3 +1,69 @@
 body {
-    background-color: #99ff99;
+    background-color: #aaddaa;
+}
+
+div {
+    display: block;
+}
+
+p {
+    display: block;
+}
+
+.page {
+    font-family: "Cambria";
+    display: flex;
+}
+
+.navig {
+    float: left;
+    margin: 20px;
+    padding: 1em;
+    width: 140px;
+
+    background-color: #99cc99;
+}
+
+.navig-h {
+    text-align: center;
+    font-style: italic;
+}
+
+.navig-comp {
+    text-align: center;
+    font-style: italic;
+    margin: 4px;
+}
+
+.navig-div {
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.navig-div-m {
+    text-align: center;
+    margin: 0px;
+}
+
+.info {
+    float: right;
+    margin: 20px;
+    padding: 1em;
+    width: 90%;
+
+    background-color: #ccffcc;
+}
+
+.info-h {
+    text-align: center;
+}
+
+.info-subh {
+
+}
+
+.info-sect {
+    font-size: large;
+    text-align: left;
 }
