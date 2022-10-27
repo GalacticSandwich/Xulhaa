@@ -1,6 +1,6 @@
 
 var navbarHTML = `
-    <img class="nv-icon" src="/Xulhaa/media/xulhaa-icon.png">
+    <img class="nv-icon" src="/Xulhaa/meta/xulhaa-icon.png">
     <br/>
     <p class="nv-div">~~~~~</p>
     <br/>
