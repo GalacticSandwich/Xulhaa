@@ -6,8 +6,24 @@ div {
     display: block;
 }
 
+img {
+    display: block;
+}
+
 p {
     display: block;
+}
+
+a:link {
+    color: #004400;
+}
+
+a:visited {
+    color: #004400;
+}
+
+a:hover {
+    color: #000088;
 }
 
 .page {
@@ -22,6 +38,13 @@ p {
     width: 140px;
 
     background-color: #99cc99;
+}
+
+.nv-icon {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+    width: 85%;
 }
 
 .nv-head {
