@@ -4,27 +4,27 @@ var navbarHTML = `
     <br/>
     <p class="nv-div">~~~~~</p>
     <br/>
-    <p class="nv-comp"><a class="nv-link" href="#">HOME</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">INFORMATION</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">DEVELOPMENT</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">UPDATES</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/index.html">HOME</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/information.html">INFORMATION</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/development.html">DEVELOPMENT</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/updates.html">UPDATES</a></p>
     <br/>
     <h4 class="nv-head">ENVIRONMENT</h4>
-    <p class="nv-comp"><a class="nv-link" href="#">HISTORY</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">CULTURE</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">GEOGRAPHY</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/env/history.html">HISTORY</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/env/culture.html">CULTURE</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/env/geography.html">GEOGRAPHY</a></p>
     <h4 class="nv-head">LANGUAGE</h4>
-    <p class="nv-comp"><a class="nv-link" href="#">OVERVIEW</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">EVOLUTION</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">PHONOLOGY</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">ORTHOGRAPHY</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">GRAMMAR</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">SYNTAX</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">NOUNS</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">PRONOUNS</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">VERBS</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">POSTPOSITIONS</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">ADJECTOIDS</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/overview.html">OVERVIEW</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/evolution.html">EVOLUTION</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/phonology.html">PHONOLOGY</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/orthography.html">ORTHOGRAPHY</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/grammar.html">GRAMMAR</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/syntax.html">SYNTAX</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/nouns.html">NOUNS</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/pronouns.html">PRONOUNS</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/verbs.html">VERBS</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/postpositions.html">POSTPOSITIONS</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/adjectoids.html">ADJECTOIDS</a></p>
     <h4 class="nv-head">RESOURCES</h4>
     <p class="nv-comp"><a class="nv-link" href="#">DICTIONARY</a></p>
     <p class="nv-comp"><a class="nv-link" href="#">WRITINGS</a></p>
