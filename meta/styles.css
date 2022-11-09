@@ -73,6 +73,11 @@ a:hover {
     background-color: #ccffcc;
 }
 
+.in-inf {
+    font-size: small;
+    text-align: center;
+}
+
 .in-head {
     text-align: center;
 }
