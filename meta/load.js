@@ -24,11 +24,12 @@ var navbarHTML = `
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/pronouns.html">PRONOUNS</a></p>
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/verbs.html">VERBS</a></p>
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/postpositions.html">POSTPOSITIONS</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/conjunctions.html">CONJUNCTIONS</a></p>
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/lang/adjectoids.html">ADJECTOIDS</a></p>
     <h4 class="nv-head">RESOURCES</h4>
     <p class="nv-comp"><a class="nv-link" href="#">DICTIONARY</a></p>
     <p class="nv-comp"><a class="nv-link" href="#">WRITINGS</a></p>
-    <p class="nv-comp"><a class="nv-link" href="#">GALLERY</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/resc/gallery.html">GALLERY</a></p>
     <br/>
     <p class="nv-div">~~~~~</p>
 `;
