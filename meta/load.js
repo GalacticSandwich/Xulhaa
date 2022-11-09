@@ -4,7 +4,7 @@ var navbarHTML = `
     <br/>
     <p class="nv-div">~~~~~</p>
     <br/>
-    <p class="nv-comp"><a class="nv-link" href="/Xulhaa/index.html">HOME</a></p>
+    <p class="nv-comp"><a class="nv-link" href="/Xulhaa">HOME</a></p>
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/information.html">INFORMATION</a></p>
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/development.html">DEVELOPMENT</a></p>
     <p class="nv-comp"><a class="nv-link" href="/Xulhaa/pages/updates.html">UPDATES</a></p>
